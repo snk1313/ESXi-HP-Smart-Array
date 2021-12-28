@@ -1,5 +1,5 @@
 # Zabbix template for HP SmartArray
 
-Based on this: https://github.com/zabbix/community-templates/tree/main/Operating_Systems/VMWare/template_esxi_hp_smart_array_monitoring/5.4
+Based on this template: https://share.zabbix.com/operating-systems/vmware/esxi-hp-smart-array-monitoring
 
-
+I've changed the scan time to 120 seconds and added temperature metric for HDDs.
